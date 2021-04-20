@@ -1,0 +1,1 @@
+/Users/alibagheri/Desktop/ultimate_rust_crash_course/exercise/g_collections_enums/target/debug/g_collections_enums: /Users/alibagheri/Desktop/ultimate_rust_crash_course/exercise/g_collections_enums/src/main.rs build.rs
